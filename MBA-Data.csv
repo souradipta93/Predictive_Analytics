@@ -1,0 +1,55 @@
+School,GPA,GMAT,Acceptance,Salary,Fee
+Harvard University,3.66,724,11.1,139735,60610
+Standford University,3.7,730,7,140972,55200
+University of Pennsylvania,3.56,718,18.8,137311,58244
+Massachusetts Institute of Technology,3.51,710,13.3,132618,52900
+Northwestern University,3.54,712,21.1,130092,54225
+University of Chicago,3.52,719,21.9,133424,54252
+University of California-Berkeley,3.64,715,12.2,129776,53396
+Columbia University,3.5,716,15.9,134233,58350
+Dartmouth College,3.52,718,17.9,138220,56555
+Yale University,3.52,719,19.1,125735,53900
+New York University,3.42,719,13.6,128888,50582
+Duke University,3.44,689,26.5,128666,52152
+University of Michigan-Ann Arbor,3.4,703,32.2,127817,52944
+University of Virginia,3.4,701,24.6,127595,52000
+University of California-Los Angeles,3.5,704,28.6,119109,52580
+Cornell University,3.29,691,27.1,122329,53200
+University of Texas-Austin,3.43,692,25.3,118410,47836
+Carnegie Mellon University,3.35,686,23.9,117650,54800
+Emory University,3.3,681,35.1,121050,44098
+U. of North Carolina-Chapel Hill,3.31,689,37.7,101904,50613
+University of Southern California,3.3,687,27,109619,51784
+Washington University in St. Louis,3.32,696,28.1,99354,46975
+Indiana University-Bloomington,3.32,670,38,106195,45351
+Georgetown University,3.31,686,49.1,111721,49265
+Ohio State University,3.4,674,26.7,91696,43800
+Rice University,3.4,673,25.2,108175,46482
+University of Notre Dame,3.33,692,36.8,104763,42520
+University of Wisconsin-Madison,3.33,680,30.3,105333,26757
+Vanderbuilt University,3.4,695,29,102694,44300
+Arizona State University,3.36,674,32.2,95255,37345
+University of Minnesota-Twin Cities,3.3,686,40.9,110349,48566
+Georgia Institute of Technology,3.31,674,26,97376,38616
+Texas A&M University-College Station,3.5,647,27.4,97279,32927
+Brigham Young University,3.55,670,52.4,103369,10600
+University of Washington,3.4,675,43.5,97970,39219
+University of California-Davis,3.37,690,24.4,96758,47526
+Boston College,3.39,656,30.7,98283,37110
+Boston University,3.32,684,30.4,94434,41366
+University of Illinois-Urbana-Champaign,3.4,650,28.1,85916,33457
+University of Rochester,3.46,675,36.1,81117,46887
+University of Texas-Dallas,3.54,662,25.8,76272,25447
+Purdue University,3.32,635,34.9,89720,41271
+Tulane University,3.3,670,56.7,76398,49936
+Michigan State University,3.24,638,36.2,94826,39535
+Pennsylvania State Univ.-Univ. Park,3.35,650,31.6,93156,35100
+University of Florida,3.51,678,24,78522,30347
+University of Maryland-College Park,3.31,661,41.4,99694,47448
+Wake Forest University,3.2,651,41.2,91504,39614
+University of California-Irvine,3.32,663,32.1,79149,45918
+University of Iowa,3.38,666,37.3,94003,34762
+University of Arkansas-Fayetteville,3.5,649,45,62745,27011
+Case Western Reserve Univ.,3.4,633,69.7,81152,43820
+Temple University,3.46,631,32.6,83457,35714
+Southern Methodist University,3.25,641,37,88693,45808
